@@ -20,7 +20,8 @@ In this hands-on lab, discover how to govern AI Apps & Agents using AI Gateway i
 ### 💻 Technologies Used
 
 1. Azure API Management as the AI Gateway
-1. Azure AI Foundry
+2. Azure API Center as the MCP Registry
+1. Azure AI Foundry to serve the models and provide the Agent Service
 
 ### 🌟 Microsoft Learn MCP Server
 
